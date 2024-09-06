@@ -74,6 +74,6 @@
     "react-pdf-highlighter": "^3.4.0",
     "rollup-plugin-import-css": "^2.0.1",
     "rollup-plugin-replace": "^2.2.0",
-    "styled-components": "^5.2.3"
+    "styled-components": "^6.1.0"
   }
 }
